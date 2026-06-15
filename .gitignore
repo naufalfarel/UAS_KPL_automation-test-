@@ -1,0 +1,23 @@
+# Compiled output
+target/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.classpath
+.project
+.settings/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# NOTE: APK (app/MyDemoApp.apk) TIDAK dimasukkan ke .gitignore
+# karena merupakan bagian dari syarat tugas UAS.
+# APK wajib ada di repository supaya dosen bisa menjalankan project.
