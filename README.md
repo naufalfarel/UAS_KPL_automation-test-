@@ -183,7 +183,6 @@ Sebelum benar-benar dijalankan, pastikan tiga hal ini sudah dilakukan:
 
 | Field           | Detail                   |
 | --------------- | ------------------------ |
-| **Nama**        | [Nama Kamu]              |
-| **NIM**         | [NIM Kamu]               |
+| **Nama**        | Naufal Farrel Syafilan   |
+| **NIM**         | 2308107010058            |
 | **Mata Kuliah** | Kualitas Perangkat Lunak |
-| **Semester**    | [Semester]               |
